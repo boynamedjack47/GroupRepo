@@ -1,0 +1,1 @@
+let randomNumber  = 10*(Math.random())
